@@ -1,0 +1,18 @@
+torch transformers sentencepiece sacrebleu pandas fastapi uvicorn
+pip install langdetect
+pip install fasttext
+pip uninstall numpy -y
+pip install numpy==1.26.4
+pip install simalign
+pip install spacy
+python -m spacy download en_core_web_sm
+
+pip install transformers sentencepiece fasttext simalign stanza
+
+pip install fastapi uvicorn pydantic
+
+source venv/bin/activate
+
+
+python -m venv venv
+source venv/bin/activate
