@@ -27,3 +27,8 @@ Thumbs.db
 venv/
 __pycache__/
 *.pyc
+
+PythonScript/Transaltion/*.bin
+PythonScript/Transaltion/*.model
+PythonScript/Transaltion/*.pth
+PythonScript/Transaltion/*.pt
