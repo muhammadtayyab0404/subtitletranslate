@@ -1,0 +1,23 @@
+[
+
+     {
+            "name" : "Malik Ustad",
+            "email" : "abc@gmail.com",
+            "description" : "Hello, How are you??",
+            "newcity" : "KHI"
+     },
+            
+     {
+            "name" : "Malik Ustad",
+            "email" : "def@gmail.com",
+            "description" : "Hello, How are you??",
+            "newcity" : "KHI"
+     },
+       
+     {
+            "name" : "Malik Ustad",
+            "email" : "ghi@gmail.com",
+            "description" : "Hello, How are you??",
+            "newcity" : "KHI"
+     }
+]
