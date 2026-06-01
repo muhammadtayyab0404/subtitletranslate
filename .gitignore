@@ -24,7 +24,6 @@ Homestead.yaml
 Thumbs.db
 
 
-PythonScript/
-vendor/
-node_modules/
-.env
+venv/
+__pycache__/
+*.pyc
